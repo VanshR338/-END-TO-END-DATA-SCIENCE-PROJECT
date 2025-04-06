@@ -82,6 +82,8 @@ Educational Tools: Demonstrate machine learning applications to students and pro
 Market Research: Analyze pricing trends by feeding batch inputs into the model.
 
 # -OUTPUT
-![Image](https://github.com/user-attachments/assets/b9413998-2423-4b4e-ba6e-620f318b5f2a)
-![Image](https://github.com/user-attachments/assets/7f28edb4-3bea-46b7-a720-38e8a3560fee)
 ![Image](https://github.com/user-attachments/assets/0d052b9d-8aef-4ddc-8ab2-b01b9a524bbc)
+![Image](https://github.com/user-attachments/assets/7f28edb4-3bea-46b7-a720-38e8a3560fee)
+![Image](https://github.com/user-attachments/assets/b9413998-2423-4b4e-ba6e-620f318b5f2a)
+
+
